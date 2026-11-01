@@ -1,4 +1,4 @@
-# NSA Codebreaker Challenge 2026
+# NSA Codebreaker Challenge 2026 Solver
 
 ## Task 0 - Community Chat
 Join the NSA Codebreaker community chat server and retrieve the announcement phrase.
